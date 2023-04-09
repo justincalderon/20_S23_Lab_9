@@ -1,0 +1,5 @@
+﻿  20_S23_Lab_9.cpp
+C:\Users\jcalderon\source\repos\20_S23_Lab_9\20_S23_Lab_9\20_S23_Lab_9\20_S23_Lab_9.cpp(143,52): warning C4302: 'type cast': truncation from 'HWND' to 'WORD'
+  Assembly.cpp
+  Generating Code...
+  20_S23_Lab_9.vcxproj -> C:\Users\jcalderon\source\repos\20_S23_Lab_9\20_S23_Lab_9\Debug\20_S23_Lab_9.exe
